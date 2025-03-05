@@ -1,4 +1,4 @@
-# End-to-End Data Warehouse Solution
+# End-to-End Data Analysis Solution
 
 ## OLTP Database: Gravity Bookstore
 
